@@ -1,6 +1,6 @@
 %{
 ex1.Experiment (manual) # A generic experiment.
-experiment_id : int
+experiment : int
 -----
 %}
 
